@@ -1,0 +1,23 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1432847712612-926caafaa802?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+  }
+  #topic{
+    font-size:4rem;
+    text-align:center;
+    color:white;
+    margin bottom: 0px
+  }
+  table{
+    margin:auto;
+    padding: 25px;
+    cell spacing:5px;
+    border-spacing: 5 25px;
+  }
+  img{
+    height:100px;
+    width:100px;
+  }
+  td{
+    padding:8px;
+    border-bottom:2px solid rgb(161, 155, 155);
+  }
